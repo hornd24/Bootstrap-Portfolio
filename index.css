@@ -1,0 +1,45 @@
+h1{margin-bottom: 15px;
+    font-size: 60px;
+    color:blueviolet;
+}
+
+
+.k2 {border-width:13px;
+    border-color:blue;
+    border-style:double;
+    text-align: center;
+    color:indianred;
+    font-weight: bolder;
+    font-size: 15px
+
+}
+h2{font-weight: bolder;
+    color:gold;
+    font-size: 30px;
+    text-align: auto;
+}
+
+
+img{ width:500px;
+}
+.nav{ border-width: 5px;
+    border-style:double;
+    border-color: blue;
+    float: right;
+
+
+}
+.back1{
+    background-color: purple;
+    font-family: Nosifer;
+}
+#head{ color: whitesmoke;
+    font-size: 30px;
+}
+#li{ font-size: 20px;
+    color: black;
+
+}
+#warship{float:center;
+
+}
